@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+h1{
+    color: greenyellow;
+}
+
+p{
+    color: whitesmoke;
+    font-family: Jost;
+}
+
+#miboton{
+    background-color: greenyellow;
+}
+
+body{
+    background-color: grey;
+}
